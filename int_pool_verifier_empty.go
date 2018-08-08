@@ -16,7 +16,7 @@
 
 // +build !VERIFY_EVM_INTEGER_POOL
 
-package vm
+package evm
 
 const verifyPool = false
 

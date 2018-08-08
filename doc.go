@@ -23,4 +23,4 @@ in the Ethereum yellow paper.
 
 The Ethereum specific data structures are modified such that it could be used in IoTeX.
 */
-package vm
+package evm
